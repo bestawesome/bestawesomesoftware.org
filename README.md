@@ -1,3 +1,3 @@
 # bestawesomesoftware.org
 
-the Best of Awesome in Open Source Software
+the Best AWESOME Software in Open Source
