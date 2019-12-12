@@ -1,3 +1,3 @@
 # bestawesomesoftware.org
 
-BestAWESOMESoftware.org features the Best AWESOME Software from the FLOSS Free Libre Open Source Software community
+BestAWESOMESoftware.org features the Best AWESOME Software from the FOSS Free Libre Open Source Software community
