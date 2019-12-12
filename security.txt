@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Email
+Contact: bestawesomesoftware.org/security.txt
+Contact: bestawesomesoftware _at @ at_ ctemplar .com
+Canonical: bestawesomesoftware.org/security.txt
+Preferred-Languages: en
+
+-----BEGIN PGP SIGNATURE-----
+
+
+
+-----END PGP SIGNATURE-----
