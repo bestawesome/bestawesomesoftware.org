@@ -7,7 +7,7 @@ the Best AWESOME Software from the FOSS Free Libre Open Source Software communit
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
 
 ### awesome-healthcare
-[awesome-healthcare](https://github.com/kakoni/awesome-healthcare)
+[Curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare)
 
 ### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome)
