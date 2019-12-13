@@ -13,7 +13,7 @@ the Best AWESOME Software from the FOSS Free Libre Open Source Software communit
 [Win10 apps](https://github.com/Awesome-Windows/Awesome)
 
 ### Jobs profile
-[Available for hire](http://bestawesomesoftware.org/security.txt")
+[Available for hire](http://bestawesomesoftware.org/security.txt)
 
 #### awesome acknowledgments
 [awesome](https://github.com/sindresorhus/awesome)
