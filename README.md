@@ -9,10 +9,10 @@ the Best AWESOME Software from the FOSS Free Libre Open Source Software communit
 ### awesome-healthcare
 [awesome-healthcare](https://github.com/kakoni/awesome-healthcare)
 
-### curated best applications Windows
+### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome)
 
 #### Awesome Acknowledgments
-[Awesome-Original](https://github.com/sindresorhus/awesome)
+[awesome](https://github.com/sindresorhus/awesome)
 
 [awesome-markdown](https://github.com/mundimark/awesome-markdown)
