@@ -13,12 +13,9 @@ the Best AWESOME Software from the FOSS Free Libre Open Source Software communit
 [Win10 apps](https://github.com/Awesome-Windows/Awesome)
 
 ### Jobs profile
-[Jobs profile]
-<input value="1" checked="checked" name="hireable" id="hireable" type="checkbox">
-<label for="hireable">
-<ahref="http://bestawesomesoftware.org/security.txt">Available for hire</a></label>
-<ahref="http://bestawesomesoftware.org/security.txt">
+[Available for hire](http://bestawesomesoftware.org/security.txt")
 
 #### awesome acknowledgments
 [awesome](https://github.com/sindresorhus/awesome)
+
 [awesome-markdown](https://github.com/mundimark/awesome-markdown)
