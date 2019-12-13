@@ -3,13 +3,13 @@ the Best AWESOME Software from the FOSS Free Libre Open Source Software communit
 
 [What is an Awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-## monitor blood glucose values
+### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
 
 ## awesome-healthcare
 [awesome-healthcare](https://github.com/kakoni/awesome-healthcare)
 
-## curated best applications Windows
+### curated best applications Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome)
 
 #### Awesome Acknowledgments
