@@ -1,4 +1,3 @@
-# BestAwesomeSoftware.org
 the Best AWESOME Software from the FOSS Free Libre Open Source Software community
 
 [What is an Awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
