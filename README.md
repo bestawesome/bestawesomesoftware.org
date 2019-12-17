@@ -22,8 +22,9 @@
 #### awesome acknowledgments
 [awesome](https://github.com/sindresorhus/awesome#contents)
 
-### institute on higher awesome studies
-[Awesome Foundation](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
-[awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
-
 [awesome-markdown](https://github.com/mundimark/awesome-markdown/blob/master/README.md#awesome-markdown)
+
+#### even more awesome
+[institute on higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
+
+[awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
