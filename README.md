@@ -6,7 +6,7 @@
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
 
 ### awesome-healthcare
-[Curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md#awesome-health-)
+[a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md#awesome-health-)
 
 ### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome#-1)
