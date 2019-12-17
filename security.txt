@@ -6,7 +6,7 @@ Hash: SHA512
 
 # Email
 Contact: bestawesomesoftware.org/security.txt
-Contact: bestawesomesoftware _at @ at_ ctemplar .com
+Contact: email _at @ at_ bestawesomesoftware .org
 Canonical: bestawesomesoftware.org/security.txt
 Preferred-Languages: en
 
