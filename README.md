@@ -2,7 +2,7 @@
 
 [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
-[what is FOSS?](https://en.wikipedia.org/wiki/Free/libre_and_open-source_software)
+[what is FOSS?](https://en.wikipedia.org/wiki/Free/libre_and_open-source_software) [vs Floss (disambiguation)](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 ### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
