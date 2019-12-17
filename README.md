@@ -1,6 +1,6 @@
 the Best AWESOME Software from the FOSS Free Libre Open Source Software community
 
-[AWESOME is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+[AWESOME is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
 ### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
