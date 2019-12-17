@@ -22,9 +22,8 @@
 #### awesome acknowledgments
 [awesome](https://github.com/sindresorhus/awesome#contents)
 
-[awesome-markdown](https://github.com/mundimark/awesome-markdown/blob/master/README.md#awesome-markdown)
+[awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
 
-#### even more awesome
 [institute on higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
 
-[awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
+
