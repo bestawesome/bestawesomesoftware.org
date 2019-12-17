@@ -1,6 +1,8 @@
-[bestawesomesoftware.org](bestawesomesoftware.org) from the FOSS Free Libre Open Source Software community
+[bestawesomesoftware.org](bestawesomesoftware.org) FOSS Free Libre Open Source Software
 
 [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
+
+[what is FOSS?](https://en.wikipedia.org/wiki/Free/libre_and_open-source_software)
 
 ### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
