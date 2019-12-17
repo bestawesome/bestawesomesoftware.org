@@ -1,5 +1,3 @@
-[bestawesomesoftware.org](bestawesomesoftware.org)
-
 [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
 [what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
