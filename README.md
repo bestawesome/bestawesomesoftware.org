@@ -11,7 +11,7 @@
 ### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome#-1)
 
-###[databases are awesome](https://github.com/sindresorhus/awesome#databases)
+### [databases are awesome](https://github.com/numetriclabz/awesome-db#awesome---db-)
 
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
