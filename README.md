@@ -1,6 +1,6 @@
-[bestawesomesoftware.org](bestawesomesoftware.org) from the FOSS Free Libre Open Source Software community. [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+[bestawesomesoftware.org](bestawesomesoftware.org) from the FOSS Free Libre Open Source Software community
 
-[awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
+[what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
 ### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
@@ -11,7 +11,8 @@
 ### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome#-1)
 
-### [databases are awesome](https://github.com/numetriclabz/awesome-db#awesome---db-)
+### databases
+[databases are awesome](https://github.com/numetriclabz/awesome-db#awesome---db-)
 
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
