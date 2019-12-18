@@ -1,15 +1,4 @@
-<!-- <!DOCTYPE html> -->
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<!-- <title>ROBOTS NOINDEX NOFOLLOW</title> -->
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-</head>
-<body>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<!-- ROBOTS NOINDEX NOFOLLOW -->
-</body>
-</html>
 
 [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
