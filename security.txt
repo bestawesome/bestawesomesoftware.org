@@ -7,9 +7,9 @@ Nofollow: /
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <title>ROBOTS NOINDEX NOFOLLOW</title>
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 </head>
