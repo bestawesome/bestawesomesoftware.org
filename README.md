@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>ROBOTS NOINDEX NOFOLLOW</title>
+<!-- <title>ROBOTS NOINDEX NOFOLLOW</title> -->
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 </head>
 <body>
@@ -36,5 +36,9 @@
 [institute on higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
 
 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<!-- ROBOTS NOINDEX NOFOLLOW -->
+</body>
+</html>
 
 
