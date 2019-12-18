@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ROBOTS NOINDEX NOFOLLOW</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+</head>
+<body>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
 [what is awesome?](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
 [what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software) [Free Open Source Software is software where anyone is freely licensed to change the source code.](https://en.m.wikipedia.org/wiki/Free_software_license)
@@ -23,5 +34,7 @@
 [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
 
 [institute on higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
+
+
 
 
