@@ -4,7 +4,7 @@
 
 [what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software) [Free Open Source Software is software where anyone is freely licensed to change the source code.](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-## production grade free and open source software
+### production grade free and open source software
 [non-trivial quality applications](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 
 ### monitor blood glucose values
@@ -13,7 +13,7 @@
 ## awesome-healthcare
 [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
 
-## EHR Electronic Health Records
+### EHR Electronic Health Records
 [VistA Electronic Health Records software components developed by the US Department of Veterans Affairs](https://www.osehra.org/content/frequently-asked-questions-0)
 
 ### Medical LMIS Logistics Management Information Systems
@@ -31,7 +31,7 @@
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
 
-### developers, developers, developers!
+### js developers, go developers, dart developers!
 [for-devs](https://github.com/ripienaar/free-for-dev#readme)
 
 [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
