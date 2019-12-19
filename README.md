@@ -22,19 +22,19 @@
 ### databases
 [databases are awesome](https://github.com/numetriclabz/awesome-db#readme)
 
-### productivity
-[awesome productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+### productivity and task automation
+[awesome productivity automation](https://github.com/jyguyomarch/awesome-productivity#task-automation)
 
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
 
-### Developers, developers, developers!
-[for-dev](https://github.com/ripienaar/free-for-dev#readme)
+### developers, developers, developers!
+[for-devs](https://github.com/ripienaar/free-for-dev#readme)
 
 #### JavaScript, dart and golang
 [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 
-[Dart](https://github.com/yissachar/awesome-dart#readme)
+[dart](https://github.com/yissachar/awesome-dart#readme)
 
 [golang](https://github.com/avelino/awesome-go#readme)
 
