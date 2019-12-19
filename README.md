@@ -23,7 +23,7 @@
 [databases are awesome](https://github.com/numetriclabz/awesome-db#readme)
 
 ### productivity
-https://github.com/jyguyomarch/awesome-productivity#readme
+[productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
