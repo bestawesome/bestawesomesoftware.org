@@ -31,7 +31,6 @@
 ### developers, developers, developers!
 [for-devs](https://github.com/ripienaar/free-for-dev#readme)
 
-#### JavaScript, dart and golang
 [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 
 [dart](https://github.com/yissachar/awesome-dart#readme)
