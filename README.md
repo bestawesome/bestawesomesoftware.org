@@ -10,6 +10,13 @@
 ## awesome-healthcare
 [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md#awesome-health-)
 
+## EHR Electronic Health Records
+[VistA Electronic Health Records software components developed by the US Department of Veterans Affairs](https://www.osehra.org/content/frequently-asked-questions-0)
+
+## Medical Logistics Management Information Systems
+[Medical Logistics Management Information Systems](https://openlmis.org/product/)
+
+
 ### curated best applications for Windows
 [Win10 apps](https://github.com/Awesome-Windows/Awesome#-1)
 
