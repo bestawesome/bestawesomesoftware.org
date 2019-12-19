@@ -23,7 +23,7 @@
 [databases are awesome](https://github.com/numetriclabz/awesome-db#readme)
 
 ### productivity
-[productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+[awesome productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 
 ### Jobs profile
 [Available for hire](http://bestawesomesoftware.org/security.txt)
@@ -31,9 +31,11 @@
 ### Developers, developers, developers!
 [for-dev](https://github.com/ripienaar/free-for-dev#readme)
 
-#### JavaScript, Dart and golang
+#### JavaScript, dart and golang
 [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+
 [Dart](https://github.com/yissachar/awesome-dart#readme)
+
 [golang](https://github.com/avelino/awesome-go#readme)
 
 ## production grade free and open source software
