@@ -4,6 +4,8 @@
 
 [what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software) [Free Open Source Software is software where anyone is freely licensed to change the source code.](https://en.m.wikipedia.org/wiki/Free_software_license)
 
+## production grade free and open source software
+[non-trivial quality applications](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 
 ### monitor blood glucose values
 [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
