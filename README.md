@@ -41,7 +41,7 @@
 
 [application firewalls](https://en.wikipedia.org/wiki/Application_firewall)
 
-[web application security]https://en.wikipedia.org/wiki/Web_application_security)
+[web application security](https://en.wikipedia.org/wiki/Web_application_security)
 
 [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme)
 
