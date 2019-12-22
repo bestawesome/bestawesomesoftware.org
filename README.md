@@ -45,7 +45,7 @@
 
 [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
 
-[institute on higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
+[institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) 
 
 
 
