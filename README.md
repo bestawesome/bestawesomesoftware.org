@@ -68,12 +68,6 @@
 
 ***
 
-##### _awesome acknowledgments_ and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
-
-##### [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics
-
-##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
-
-##### [institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ##### only awesome [is awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
