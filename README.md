@@ -1,16 +1,12 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-##### what is awesome?
-[awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+##### what is awesome? [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
-##### what is Free Open Source Software or FOSS?
-[what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
+##### what is Free Open Source Software? [what is Free Open Source Software or FOSS?](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
 
-##### Free and open-source software licenses
-[Free and open-source software licenses](https://en.m.wikipedia.org/wiki/Free_software_license)
+##### what are software licenses? [Free and open-source software licenses](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### Linux and open-source software rules, while the others drool
-[the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
+##### Linux and open-source software rules, while the others drool[the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
 
 ##### Cloud software, Containers and Kubernetes
 [Kubernetes is open source](https://kubernetes.io/)
