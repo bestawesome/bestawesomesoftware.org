@@ -37,9 +37,7 @@
 
 ####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
 
-##### Ionic [is awesome](https://github.com/Alexintosh/Awesome-Ionic)
-
-##### Dart.dev and Flutter.dev [are awesome](https://flutterawesome.com/)
+##### Ionic [is awesome](https://github.com/Alexintosh/Awesome-Ionic) (Dart.dev)(https://dart.dev/) and [Flutter.dev](https://flutter.dev/) [are awesome](https://flutterawesome.com/)
 
 ##### databases [are awesome](https://github.com/numetriclabz/awesome-db#readme)
 
