@@ -6,7 +6,7 @@
 
 ##### what are free software licenses?  [it permits companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### Linux and open-source software rules, while the others drool !  [the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
+##### open-source software rules, while the others drool !  [the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
 
 ##### Microsoft Azure is Linux  [because Linux runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
 
