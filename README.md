@@ -31,9 +31,9 @@
 
 ***
 
-#### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS)
+#### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
-### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) and in all[-](https://en.m.wiktionary.org/wiki/always#English)waysz, just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
+### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) all[-](https://en.m.wiktionary.org/wiki/always#English)waysz just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
 
 ####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
 
