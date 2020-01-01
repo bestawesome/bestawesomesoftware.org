@@ -14,6 +14,7 @@
 
 [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
+
 #### web application firewalls [are awesome](https://en.m.wikipedia.org/wiki/Web_application_firewall)
 
 [OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries) - [application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security) - [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
@@ -32,11 +33,7 @@
 
 #### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS)
 
-***
-
 ### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) and in all[-](https://en.m.wiktionary.org/wiki/always#English)waysz, just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
-
-***
 
 ####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
 
