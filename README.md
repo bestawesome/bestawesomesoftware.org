@@ -10,7 +10,7 @@
 
 ***
 
-#### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security) [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing))
+#### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security) [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)
 
 [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
@@ -34,7 +34,7 @@
 
 ***
 
-### Jobs profile [Available for hire](http://bestawesomesoftware.org/security.txt) and in all[-](https://en.m.wiktionary.org/wiki/always#English)waysz, just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
+### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) and in all[-](https://en.m.wiktionary.org/wiki/always#English)waysz, just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
 
 ***
 
