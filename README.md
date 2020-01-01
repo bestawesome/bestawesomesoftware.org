@@ -10,7 +10,7 @@
 
 ***
 
-#### firewalls [are ](https://en.m.wikipedia.org/wiki/Network_security)[awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)
+#### firewalls [are](https://en.m.wikipedia.org)  [awesome]((https://en.m.wikipedia.org/wiki/Firewall_(computing))
 
 [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
