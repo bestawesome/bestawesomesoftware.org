@@ -1,74 +1,73 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-###### what is awesome? - [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+##### what is awesome? - [awesome is a curated list of software that can be personally recommended](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
-###### what is Free Open Source Software? - [companies are encouraged to use, copy, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
+##### what is Free Open Source Software? - [companies are encouraged to use, copy, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
 
-###### what are free software licenses? - [enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
+##### what are free software licenses? - [enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-###### open-source software rules, while the others drool ! - [the future of technology belongs to open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
+##### ZDNET: open-source software __RULES__ ! - the others drool ? - [the future of technology belongs to open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
 
-### production grade free and open source software
-[non-trivial quality applications](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+***
 
-## firewalls [are awesome](https://en.wikipedia.org/wiki/Firewall_(computing))
+#### firewalls [are awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing))
 
-[PFSense firewall](https://en.wikipedia.org/wiki/PfSense)
+[PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
-[OPNsense firewall](https://en.wikipedia.org/wiki/OPNsense)
-
-## web application firewalls [are awesome](https://en.wikipedia.org/wiki/Web_application_firewall)
+#### web application firewalls [are awesome](https://en.m.wikipedia.org/wiki/Web_application_firewall)
 
 [OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries)
 
-[application firewalls](https://en.wikipedia.org/wiki/Application_firewall)
+[application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security)
 
-[web application security](https://en.wikipedia.org/wiki/Web_application_security)
+[modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
 
-[modsecurity](https://github.com/SpiderLabs/ModSecurity#readme)
+***
 
-[nginx](https://github.com/nbs-system/naxsi#readme)
+#### awesome-healthcare - [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
 
-[reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
+##### monitor blood glucose values - [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
 
-#### productivity and task automation - [awesome productivity automation](https://github.com/jyguyomarch/awesome-productivity#task-automation)
+##### EHR Electronic Health Records - [VistA Electronic Health Records software components developed by the US Department of Veterans Affairs](https://www.osehra.org/content/frequently-asked-questions-0)
 
-#### monitor blood glucose values - [Continuous Glucose Monitoring on Android, iOS and Apple Watch](http://www.nightscout.info/)
+##### Medical LMIS Logistics Management Information Systems [are awesome](https://openlmis.org/product/)
 
-### awesome-healthcare - [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
+***
 
-#### EHR Electronic Health Records - [VistA Electronic Health Records software components developed by the US Department of Veterans Affairs](https://www.osehra.org/content/frequently-asked-questions-0)
+#### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS)
 
-#### Medical LMIS Logistics Management Information Systems
-[Medical Logistics Management Information Systems](https://openlmis.org/product/)
+### Jobs profile [Available for hire](http://bestawesomesoftware.org/security.txt) and in all[-](https://en.m.wiktionary.org/wiki/always#English)waysz, just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
 
-### curated best applications for Windows
-[Win10 apps](https://github.com/Awesome-Windows/Awesome/blob/master/README.md)
+####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
 
-### databases [are awesome](https://github.com/numetriclabz/awesome-db#readme)
+##### Ionic [is awesome](https://github.com/Alexintosh/Awesome-Ionic)
 
-### Jobs profile
-[Available for hire](http://bestawesomesoftware.org/security.txt)
+##### Flutter.dev [is awesome](https://flutterawesome.com/)
 
-#### js developers, go developers, dart developers!
-[for-devs](https://github.com/ripienaar/free-for-dev#readme)
+#### databases [are awesome](https://github.com/numetriclabz/awesome-db#readme)
 
-[JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+#### Microsoft Azure is Linux [- Linux runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
 
-[dart](https://github.com/yissachar/awesome-dart#readme)
+##### kubernetes.io Clouds and Containers [are awesome](https://kubernetes.io/)
 
-[golang](https://github.com/avelino/awesome-go#readme)
+##### CHIP Connected Home over IP IoT Standard [for Apple Home Kit Zigbee Google Amazon Samsung SmartThings Philips Schneider Electric ](https://www.connectedhomeip.com/)
 
-### Microsoft Azure is Linux [because Linux runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
+*** 
 
-### Clouds and Containers from kubernetes.io [runs cloud software](https://kubernetes.io/)
+##### [search](https://awesomeopensource.com/) awesome open source software 
 
-###### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
+##### productivity and task automation - [awesome productivity](https://github.com/jyguyomarch/awesome-productivity#task-automation)
 
-###### [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics
+#### non-trivial production quality free open source software [is awesome](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 
-###### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
+***
 
-###### [institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+##### _awesome acknowledgments_ and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
-###### [only-awesome-is-awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+##### [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics
+
+##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us)
+
+##### [institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+
+##### only awesome [is awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
