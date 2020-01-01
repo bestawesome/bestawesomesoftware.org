@@ -64,7 +64,7 @@
 
 ### Clouds and Containers from kubernetes.io [runs cloud software](https://kubernetes.io/)
 
-### awesome acknowledgments
+###### awesome acknowledgments
 [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto)
 
 [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics
