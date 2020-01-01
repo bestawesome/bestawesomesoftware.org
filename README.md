@@ -1,16 +1,16 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-##### what is awesome?  [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+###### what is awesome?  [awesome is a curated list of software that can be personally recommended.](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
-##### what is Free Open Source Software?  [companies are encouraged to use, copy, study, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
+###### what is Free Open Source Software?  [companies are encouraged to use, copy, study, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
 
-##### what are free software licenses?  [it permits companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
+###### what are free software licenses?  [it permits companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### open-source software rules, while the others drool !  [the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
+###### open-source software rules, while the others drool !  [the future of technology belongs to Linux and open-source software](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
 
-##### Microsoft Azure is Linux  [because Linux runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
+###### Microsoft Azure is Linux  [because Linux runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
 
-##### Clouds and Containers from kubernetes.io  [runs cloud software](https://kubernetes.io/)
+###### Clouds and Containers from kubernetes.io  [runs cloud software](https://kubernetes.io/)
 
 ### production grade free and open source software
 [non-trivial quality applications](https://github.com/DataDaoDe/awesome-foss-apps#readme)
