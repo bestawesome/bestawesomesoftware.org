@@ -19,6 +19,7 @@
 
 [OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries) - [application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security) - [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
 
+
 ***
 
 #### awesome-healthcare - [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
@@ -60,6 +61,18 @@
 ##### productivity and task automation - [awesome productivity](https://github.com/jyguyomarch/awesome-productivity#task-automation)
 
 ##### non-trivial production quality free open source software [is awesome](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+
+***
+
+
+#### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security)  [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing))
+
+[PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
+
+
+#### web application firewalls [are awesome](https://en.m.wikipedia.org/wiki/Web_application_firewall)
+
+[OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries) - [application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security) - [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
 
 ***
 

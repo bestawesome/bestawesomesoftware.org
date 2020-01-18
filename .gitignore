@@ -351,3 +351,6 @@ MigrationBackup/
 
 *.desktop
 *.md.backup
+link*.sh
+*sh.LNK2
+*sh.LNK
