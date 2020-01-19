@@ -14,11 +14,11 @@
 
 #### [Hugin](http://hugin.sourceforge.net/) interactive [panorama](https://wiki.panotools.org/Main_Page) stitching software is [awesome](https://github.com/bertjiazheng/awesome-scene-understanding)
 
+#### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
+
 #### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF) is [awesome](https://github.com/willianjusten/awesome-svg) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#three-d-modeling-software)
 
 #### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng) and uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
-
-#### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
 
 <p align="center"><img src="h/langloisbridges0027v1962800vangoghh.jpg" width="320"/></p>
 
