@@ -45,7 +45,7 @@
 
 ##### Medical LMIS Logistics Management Information Systems are [awesome](https://openlmis.org/product/)
 
-<p align="center"><img src="h/vicaragenuenens0140v1962800vangoghh.jpg" width="320"/></p>
+<p align="center"><img src="h/farmhousewheatfields0034v1962800vangoghh.jpg" width="320"/></p>
 
 ##### [search](https://awesomeopensource.com/) awesome open source software 
 
@@ -61,11 +61,15 @@
 
 ##### [FAANGS](https://en.m.wikipedia.org/wiki/Facebook,_Apple,_Amazon,_Netflix_and_Google) open source [Facebook](https://opensource.facebook.com/) [Apple](https://developer.apple.com/opensource/) [Amazon](https://amzn.github.io/) [Netflix](https://netflix.github.io/) [Google](https://opensource.google/) [Samsung](https://opensource.samsung.com/)
 
-####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
+<p align="center"><img src="h/gateparisrampartsd0420v1962800vangoghh.jpg" width="320"/></p>
+
+#####  [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) developers, [golang](https://github.com/avelino/awesome-go#readme) developers, [dart](https://github.com/yissachar/awesome-dart#readme) developers! [for-devs is awesome](https://github.com/ripienaar/free-for-dev#readme)
 
 ##### Ionic is [awesome](https://github.com/Alexintosh/Awesome-Ionic), [Dart.dev](https://dart.dev/) and [Flutter.dev](https://flutter.dev/) are [awesome](https://flutterawesome.com/)
 
 ##### databases are [awesome](https://github.com/numetriclabz/awesome-db#readme)
+
+<p align="center"><img src="h/fishingboatsbeachs0028v1962800vangoghh.jpg" width="320"/></p>
 
 ##### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security)  [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)) [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
@@ -77,8 +81,10 @@
 
 ##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans) [video](https://www.youtube.com/watch?v=wI2i5ca1RT4)
 
-<p align="center"><img src="h/oldchurchtowernuenens0002v1962800vangoghh.jpg" width="320"/></p>
+<p align="center"><img src="h/yellowhouses0032v1962800vangoghh.jpg" width="320"/></p>
 
 ##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ##### only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
