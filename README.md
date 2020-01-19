@@ -1,16 +1,4 @@
-<head>
-<meta charset="utf-8">
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<meta http-equiv="Content-Language" content="en_US" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link href="/static/img/touch-icons/apple-touch-icon.png" rel="apple-touch-icon" />
-  <link href="/static/img/touch-icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
-  <link href="/static/img/touch-icons/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
-  <link href="/static/img/touch-icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
-  <link href="/static/img/touch-icons/icon-hires.png" rel="icon" sizes="192x192" />
-  <link href="/static/img/touch-icons/icon-normal.png" rel="icon" sizes="128x128" />
-  <link rel="shortcut icon" href="/favicon.ico" />
-</head>
 
 ##### what is awesome? - [awesome is a curated list of software that can be personally recommended](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
@@ -32,7 +20,7 @@
 
 #### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
 
-<p align="center"><img src="vangoghlangloisbridges0027v1962800.jpg" width="320"/></p>
+<p align="center"><img src="v/langloisbridges0027v1962800vangogh.jpg" width="320"/></p>
 
 #### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
@@ -42,11 +30,12 @@
 
 ##### [KiCad PCB](https://kicad-pcb.org/) is [awesome](https://github.com/Academany/awesome-fabacademy) and has [3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools). 2D [LibreCAD.org](https://librecad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng). [LibrePCB](https://librepcb.org/) software for printed circuit boards is [awesome](https://awesomeopensource.com/project/LibrePCB/LibrePCB). CNC is [awesome](https://github.com/Phreak87/Awesome-CNC). 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw). [EasyLogic.Studio ](https://www.easylogic.studio/) is a [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools) and [awesome](https://github.com/willianjusten/awesome-svg) online [SVG](https://en.m.wikipedia.org/wiki/Scalable_Vector_Graphics) editor. [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)) is [awesome](https://github.com/paperbenni/awesome-blender) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools).
 
-<p align="center"><img src="vangoghyellowhouses0032v1962800.jpg" width="320"/></p>
+<p align="center"><img src="v/windmillss0015v1962800vangogh.jpg" width="320"/></p>
 
 #### ZDnet: Microsoft Azure [is Linux - Open Source runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
 
-<p align="center"><img src="vangoghstudiod0337v1962800.jpg" width="320"/></p>
+<p align="center"><img src="v/exteriorrestaurantasnieress0134v1962800vangogh.jpg" width="320"/></p>
+
 
 #### awesome-healthcare - [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
 
@@ -56,7 +45,7 @@
 
 ##### Medical LMIS Logistics Management Information Systems are [awesome](https://openlmis.org/product/)
 
-<p align="center"><img src="vangoghvicaragenuenens0140v1962800.jpg" width="320"/></p>
+<p align="center"><img src="v/vicaragenuenens0140v1962800vangogh.jpg" width="320"/></p>
 
 ##### [search](https://awesomeopensource.com/) awesome open source software 
 
@@ -78,8 +67,6 @@
 
 ##### databases are [awesome](https://github.com/numetriclabz/awesome-db#readme)
 
-<p align="center"><img src="vangoghreformedchurchnuenens0003v1962800.jpg" width="320"/></p>
-
 ##### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security)  [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)) [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
 ##### web application firewalls are [awesome](https://en.m.wikipedia.org/wiki/Web_application_firewall)
@@ -90,8 +77,8 @@
 
 ##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans) [video](https://www.youtube.com/watch?v=wI2i5ca1RT4)
 
-##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+<p align="center"><img src="v/oldchurchtowernuenens0002v1962800vangogh.jpg" width="320"/></p>
 
-<p align="center"><img src="vangoghbibles0008v1962800.jpg" width="320"/></p>
+##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ##### only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
