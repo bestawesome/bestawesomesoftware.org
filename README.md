@@ -1,4 +1,16 @@
+<head>
+<meta charset="utf-8">
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta http-equiv="Content-Language" content="en_US" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="/static/img/touch-icons/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/static/img/touch-icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+  <link href="/static/img/touch-icons/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167" />
+  <link href="/static/img/touch-icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+  <link href="/static/img/touch-icons/icon-hires.png" rel="icon" sizes="192x192" />
+  <link href="/static/img/touch-icons/icon-normal.png" rel="icon" sizes="128x128" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+</head>
 
 ##### what is awesome? - [awesome is a curated list of software that can be personally recommended](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
