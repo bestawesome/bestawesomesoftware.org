@@ -20,7 +20,7 @@
 
 ***
 
-![vangoghlangloisbridges0027v1962800.jpg](vangoghlangloisbridges0027v1962800.jpg)
+![](vangoghlangloisbridges0027v1962800.jpg)
 
 #### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
@@ -32,13 +32,13 @@
 
 ***
 
-![vangoghyellowhouses0032V1962800.jpg](vangoghyellowhouses0032v1962800.jpg)
+![](vangoghyellowhouses0032v1962800.jpg)
 
 #### ZDnet: Microsoft Azure [is Linux - Open Source runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
 
 *** 
 
-![vangoghstudiod0337v1962800.jpg](vangoghstudiod0337v1962800.jpg)
+![](vangoghstudiod0337v1962800.jpg)
 
 #### awesome-healthcare - [a curated list of awesome open source healthcare software](https://github.com/kakoni/awesome-healthcare/blob/master/README.md)
 
@@ -50,8 +50,7 @@
 
 ***
 
-![vangoghvicaragenuenens0140v1962800.jpg]
-(vangoghvicaragenuenens0140v1962800.jpg)
+![](vangoghvicaragenuenens0140v1962800.jpg) 
 
 ##### [search](https://awesomeopensource.com/) awesome open source software 
 
@@ -75,7 +74,7 @@
 
 ***
 
-![vangoghreformedchurchnuenens0003v1962800.jpg](vangoghreformedchurchnuenens0003v1962800.jpg)
+![](vangoghreformedchurchnuenens0003v1962800.jpg)
 
 ##### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security)  [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)) [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
 
@@ -93,6 +92,6 @@
 
 ##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans)
 
-![vangoghbibles0008v1962800.jpg](vangoghbibles0008v1962800.jpg)
+![](vangoghbibles0008v1962800.jpg)
 
 ##### only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
