@@ -20,8 +20,6 @@
 
 #### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
 
-***
-
 ![](vangoghlangloisbridges0027v1962800.jpg)
 
 #### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
@@ -32,13 +30,9 @@
 
 ##### [KiCad PCB](https://kicad-pcb.org/) is [awesome](https://github.com/Academany/awesome-fabacademy) and has [3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools). 2D [LibreCAD.org](https://librecad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng). [LibrePCB](https://librepcb.org/) software for printed circuit boards is [awesome](https://awesomeopensource.com/project/LibrePCB/LibrePCB). CNC is [awesome](https://github.com/Phreak87/Awesome-CNC). 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw). [EasyLogic.Studio ](https://www.easylogic.studio/) is a [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools) and [awesome](https://github.com/willianjusten/awesome-svg) online [SVG](https://en.m.wikipedia.org/wiki/Scalable_Vector_Graphics) editor. [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)) is [awesome](https://github.com/paperbenni/awesome-blender) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#design-to-code-tools).
 
-***
-
 ![](vangoghyellowhouses0032v1962800.jpg)
 
 #### ZDnet: Microsoft Azure [is Linux - Open Source runs more than 50 percent of Microsoft Azure workloads](https://www.zdnet.com/article/microsoft-developer-reveals-linux-is-now-more-used-on-azure-than-windows-server/)
-
-*** 
 
 ![](vangoghstudiod0337v1962800.jpg)
 
@@ -49,8 +43,6 @@
 ##### EHR Electronic Health Records - [VistA Electronic Health Records software components developed by the US Department of Veterans Affairs](https://www.osehra.org/content/frequently-asked-questions-0)
 
 ##### Medical LMIS Logistics Management Information Systems are [awesome](https://openlmis.org/product/)
-
-***
 
 ![](vangoghvicaragenuenens0140v1962800.jpg) 
 
@@ -74,8 +66,6 @@
 
 ##### databases are [awesome](https://github.com/numetriclabz/awesome-db#readme)
 
-***
-
 ![](vangoghreformedchurchnuenens0003v1962800.jpg)
 
 ##### firewalls [are](https://en.m.wikipedia.org/wiki/Network_security)  [awesome](https://en.m.wikipedia.org/wiki/Firewall_(computing)) [PFSense firewall](https://en.m.wikipedia.org/wiki/PfSense) - [OPNsense firewall](https://en.m.wikipedia.org/wiki/OPNsense)
@@ -89,8 +79,6 @@
 ##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ##### [learn-anything.xyz](https://learn-anything.xyz/) is [awesome](https://github.com/learn-anything/curated-lists)
-
-***
 
 ##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans)
 
