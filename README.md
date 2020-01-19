@@ -88,7 +88,7 @@
 
 ##### [learn-anything.xyz](https://learn-anything.xyz/) is [awesome](https://github.com/learn-anything/curated-lists)
 
-##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans)
+##### [vincent_van_gogh](https://en.m.wikipedia.org/wiki/Vincent_van_Gogh) is [awesome](https://github.com/learn-anything/humans) [video](https://www.youtube.com/watch?v=wI2i5ca1RT4)
 
 ##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
