@@ -24,7 +24,7 @@
 
 #### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
-### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) [all](https://en.m.wiktionary.org/wiki/always#English)[way](https://en.wikipedia.org/wiki/Trap_street)[z](https://en.wikipedia.org/wiki/Fictitious_entry) just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
+### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) - [all](https://en.m.wiktionary.org/wiki/always#English)[way](https://en.wikipedia.org/wiki/Trap_street)[z](https://en.wikipedia.org/wiki/Fictitious_entry) just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
 
 ##### [inkscape](https://inkscape.org/) has [parametric](https://github.com/mnesarco/inkscape-parametric) SVG [extensions](https://github.com/konsumer/inkscape-svgo) 
 
