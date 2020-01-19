@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>
+body {
+	font-family: jaf-bernino-sans, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+	color: #333;
+}
+div.container p {
+	line-height: 1.65em;
+}
+h1 {
+	font-size: 32px;
+}
+h3 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 14px;
+}
+
+div.container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	margin: 64px;
+	max-width: 640px;
+	position: relative;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+a {
+	color: #009;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+hr {
+	margin:64px;
+}
+label {
+	font-size: 0.8em;
+	color: #666;
+}
+input {
+	color: #999;
+}
+
+/* NAVBAR */
+.navbar {
+//	position: fixed;
+	background: #EEEEEE;
+	top: -64px;
+	z-index: 10000;
+	width: 100%;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+
+/*  GROUPING  */
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 */
+}
+
+/*  GRID OF THREE  */
+.span_3_of_3 {
+	width: 100%;
+}
+.span_2_of_3 {
+	width: 66.1%;
+}
+.span_1_of_3 {
+	width: 32.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.col {
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.span_3_of_3 {
+		width: 100%;
+	}
+	.span_2_of_3 {
+		width: 100%;
+	}
+	.span_1_of_3 {
+		width: 100%;
+	}
+}
+
+.span_2_of_2 {
+	width: 100%;
+}
+
+.span_1_of_2 {
+	width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.span_2_of_2 {
+		width: 100%;
+	}
+	.span_1_of_2 {
+		width: 100%;
+	}
+}
+</style>
+    <style>
+#form-search > .st-default-search-input {
+	width: 170px;
+  display: inline-block;
+  height: 16px;
+  padding: 7px 11px 7px 28px;
+  border: 1px solid #bbb;
+  border: 1px solid rgba(0,0,0,0.25);
+  font-weight: 400;
+  color: #3B454F;
+  font-size: 14px;
+  line-height: 16px;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  font-family: system, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+
+blockquote
+{
+    color: #666;
+    font-size: 1.1em;
+    background: none;
+    border-left: .2rem solid #d3d3d3;
+
+    display: block;
+    padding: 20px 20px 10px 45px;
+    margin: 20px 0;
+    font-style: italic;
+
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+
+	font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif;
+}
+
+.ldq {
+	display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 60px;
+    position: relative;
+    left: -50px;
+    top: 0;
+    height: 0;
+    color: #7a7a7a;
+}
+</style>
+    <title></title>
+  </head>
+  <body>
+    <div class="container">
+      <h3>Open Source Baseboard Management Controller hardware and
+        software<br>
+      </h3>
+      <h3><a
+href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">RunBMC</a></h3>
+      Dropbox released RunBMC, an open-source standard hardware and
+      software interface for Baseboard Management Controllers (BMC).
+      Dropbox donated the RunBMC specs, for the common hardware
+      manufacturers, ASPEED and Nuvoton, to the Open Compute Project in
+      August 2019. <br>
+      <br>
+      The RunBMC design allows for swapping out BMCs separate from the
+      rest of the board, isolating and locking down the BMC subsystem.<br>
+      <br>
+      <a
+href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/</a><br>
+      <br>
+      <a href="https://www.aspeedtech.com/">https://www.aspeedtech.com/</a><br>
+      <p><a href="https://en.wikipedia.org/wiki/Nuvoton">https://en.wikipedia.org/wiki/Nuvoton</a><br>
+      </p>
+      <a href="https://www.nuvoton.com/">https://www.nuvoton.com/</a><br>
+      <br>
+      <h3><a href="https://github.com/openbmc/openbmc">OpenBMC</a><br>
+      </h3>
+      OpenBMC has the widest range of support for various BMCs. (<a
+        href="https://github.com/openbmc/openbmc">https://github.com/openbmc/openbmc</a>).
+      <a href="https://github.com/openbmc/docs">OpenBMC</a> is a Linux
+      distribution for embedded devices that have a BMC. OpenBMC is
+      designed with a service-oriented approach and uses technologies
+      such as Yocto, OpenEmbedded, systemd, and D-Bus.<br>
+      <br>
+      <h3><a href="https://en.wikipedia.org/wiki/Das_U-Boot">U-Boot</a><br>
+      </h3>
+      The OpenBMC project encompasses <a
+        href="https://www.denx.de/wiki/U-Boot">u-boot</a>, an
+      open-source bootloader that boots a Linux kernel with a minimal
+      root file system containing all the tools and binaries needed to
+      run OpenBMC.<br>
+      <br>
+      <a href="https://www.denx.de/wiki/U-Boot">https://www.denx.de/wiki/U-Boot</a><br>
+      <br>
+      <a href="https://en.wikipedia.org/wiki/Das_U-Boot">https://en.wikipedia.org/wiki/Das_U-Boot</a><br>
+      <br>
+      <a href="https://github.com/facebook/openbmc-uboot">https://github.com/facebook/openbmc-uboot</a><br>
+      <br>
+      <a href="https://gitlab.denx.de/u-boot/u-boot">https://gitlab.denx.de/u-boot/u-boot</a><br>
+      <br>
+      <h3><a href="https://github.com/u-root/u-bmc">u-bmc</a></h3>
+      u-bmc uses u-root to create a Linux OS distribution that is fully
+      open-source. u-bmc (<a href="https://github.com/u-root/u-bmc">https://github.com/u-root/u-bmc</a>)
+      has a more minimal BMC software architecture by replacing IPMI
+      with gRPC. u-bmc borrows and contributes to OpenBMC. Unlike
+      OpenBMC, u-bmc boots a Linux kernel directly from the ASPEED
+      startup code after DRAM initialization to remove the need for a
+      bootloader such as u-boot. <a
+        href="https://github.com/u-root/u-bmc#support">u-bmc is still in
+        experimental stage.</a><br>
+      <br>
+      <a href="https://u-bmc.readthedocs.io/en/latest/">https://u-bmc.readthedocs.io/en/latest/</a>
+      <p><br>
+        References</p>
+      <p><a href="https://en.wikipedia.org/wiki/OpenBMC">https://en.wikipedia.org/wiki/OpenBMC</a></p>
+      <p> </p>
+      <p> <a href="https://www.openbmc.org/">https://www.openbmc.org/</a></p>
+      <p> </p>
+      <p> <a href="https://github.com/openbmc/openbmc">https://github.com/openbmc/openbmc</a></p>
+      <p> </p>
+      <p> <a href="https://github.com/u-root/u-bmc">https://github.com/u-root/u-bmc</a></p>
+      <p> </p>
+      <p> <a href="https://u-bmc.readthedocs.io/en/latest/">https://u-bmc.readthedocs.io/en/latest/</a></p>
+      <p> </p>
+      <p> <a
+href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/</a></p>
+      <p> </p>
+      <p><a href="https://www.opencompute.org/wiki/Server/Working">
+          https://www.opencompute.org/wiki/Server/Working</a></p>
+      <p><a href="https://www.aspeedtech.com/">https://www.aspeedtech.com/</a></p>
+      <p><a href="https://en.wikipedia.org/wiki/Nuvoton">https://en.wikipedia.org/wiki/Nuvoton</a><br>
+      </p>
+      <p><a href="https://www.nuvoton.com/">https://www.nuvoton.com/</a><br>
+      </p>
+      <p>Fang, T. 2015. Introducing "OpenBMC": an open software
+        framework for next-generation system management. Facebook
+        Engineering; <a
+href="https://engineering.fb.com/open-source/introducing-openbmc-an-open-software-framework-for-next-generation-system-management/">https://engineering.fb.com/open-source/introducing-openbmc-an-
+
+
+
+
+          open-software-framework-for-next-generation-system-management/</a>.
+      </p>
+      <p>Frazelle, J. 2019. Open-source firmware. <i>acmqueue</i>
+        17(3); <a href="https://queue.acm.org/detail.cfm?id=3349301">https://queue.acm.org/detail.cfm?id=3349301</a>.</p>
+      <p> </p>
+      <p>Heiliger, J. 2011. Building efficient data centers with the
+        Open Compute Project. Facebook; <a
+href="https://www.facebook.com/notes/facebook-engineering/building-efficient-data-centers-with-the-open-compute-project/10150144039563920/">https://www.facebook.com/notes/facebook-engineering/building-efficient
+
+
+
+
+          -data-centers-with-the-open-compute-project/10150144039563920/</a>.</p>
+      <p> </p>
+      <p>Hudson, T. 2019. Modchips of the State; <a
+          href="https://trmm.net/Modchips#Defenses">https://trmm.net/Modchips#Defenses</a>.</p>
+      <p> </p>
+      <p>Shobe, E., Mednick, J. 2019. RunBMC: OCP hardware spec solves
+        data center BMC pain points; <a
+href="https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/">https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/</a></p>
+      <p> </p>
+      <p>Sullivan, A. 2015. OpenPOWER &amp; Open Compute: full speed
+        ahead with Barreleye; <a
+          href="https://blog.rackspace.com/openpower-open-compute-barreleye">https://blog.rackspace.com/openpower-open-compute-barreleye</a>.</p>
+      <p> </p>
+      <p>Copyrights 2019 held by owners/authors.</p>
+      <p>Frazelle J. 2020. Opening up the Baseboard Management
+        Controller; <a
+          href="https://blog.rackspace.com/openpower-open-compute-barreleye">https://queue.acm.org/detail.cfm?id=3378404</a></p>
+      <p> Frazelle J. 2020. Opening up the Baseboard Management
+        Controller PDF; </p>
+      <p> <a
+href="https://dl.acm.org/ft_gateway.cfm?id=3378404&amp;ftid=2101915&amp;dwn=1">https://dl.acm.org/ft_gateway.cfm?id=3378404&amp;ftid=2101915&amp;dwn=1</a></p>
+      <p> </p>
+      <p> ACM Queue vol 17 no 5. Opening up the Baseboard Management
+        Controller; <a
+          href="https://portal.acm.org/citation.cfm?id=3378404">https://portal.acm.org/citation.cfm?id=3378404</a>;
+        <a href="https://doi.org/10.1145/3371595.3378404">https://doi.org/10.1145/3371595.3378404</a>;
+        <a href="https://dl.acm.org/doi/10.1145/3371595.3378404">https://dl.acm.org/doi/10.1145/3371595.3378404</a></p>
+      <p> </p>
+    </div>
+  </body>
+</html>

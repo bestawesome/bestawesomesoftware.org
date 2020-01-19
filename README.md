@@ -16,7 +16,7 @@
 
 #### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF) is [awesome](https://github.com/willianjusten/awesome-svg) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#three-d-modeling-software)
 
-#### Army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng) and uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) modeling to [study physical phenomena such as ballistic penetration and thermal, radiative, neutron, and other types of transport](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F).
+#### Army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng) and uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) modeling to [study physical phenomena such as ballistic penetration and thermal, radiative, neutron, and other types of transport](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
 
 #### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
 
@@ -64,7 +64,7 @@
 
 ##### IoT CHIP Connected Home over IP Standard - [Apple Home Kit Zigbee Google Amazon Samsung Philips Schneider](https://www.connectedhomeip.com/)
 
-##### open source data center hardware - [servers](https://en.m.wikipedia.org/wiki/Open_Compute_Project) and [networking](https://www.opencompute.org/)
+##### open source data center hardware - [servers](https://en.m.wikipedia.org/wiki/Open_Compute_Project) and [networking](https://www.opencompute.org/) - [Baseboard Management Controllers](https://queue.acm.org/detail.cfm?id=3378404) - [openBMC](bmcopensourcehardwareopenbmc.html) - [RunBMC](https://blogs.dropbox.com/tech/2019/08/runbmc-ocp-hardware-spec-solves-data-center-bmc-pain-points/) [osnews.com](https://www.osnews.com/story/131205/opening-up-the-baseboard-management-controller/)
 
 ##### [FAANGS](https://en.m.wikipedia.org/wiki/Facebook,_Apple,_Amazon,_Netflix_and_Google) open source [Facebook](https://opensource.facebook.com/) [Apple](https://developer.apple.com/opensource/) [Amazon](https://amzn.github.io/) [Netflix](https://netflix.github.io/) [Google](https://opensource.google/) [Samsung](https://opensource.samsung.com/)
 
