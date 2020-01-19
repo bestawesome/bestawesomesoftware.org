@@ -16,7 +16,9 @@
 
 #### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF) is [awesome](https://github.com/willianjusten/awesome-svg) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#three-d-modeling-software)
 
-#### [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) Army Ballistic Research Laboratory combat vehicle systems [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng).
+#### Army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng) and uses [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) to [study physical phenomena such as ballistic penetration and thermal, radiative, neutron, and other types of transport](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F).
+
+#### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
 
 ***
 
