@@ -14,15 +14,15 @@
 
 #### [Hugin](http://hugin.sourceforge.net/) interactive [panorama](https://wiki.panotools.org/Main_Page) stitching software is [awesome](https://github.com/bertjiazheng/awesome-scene-understanding)
 
+#### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
+
 #### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF) is [awesome](https://github.com/willianjusten/awesome-svg) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools#three-d-modeling-software)
 
 #### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng) and uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
 
-#### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab](https://cvdlab.github.io/react-planner/)
-
 <p align="center"><img src="h/langloisbridges0027v1962800vangoghh.jpg" width="320"/></p>
 
-#### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
+##### curated best apps - [Win10](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) - [iOS](https://github.com/vsouza/awesome-ios) - [opensource iOS](https://github.com/dkhamsing/open-source-ios-apps) - [mac](https://github.com/jaywcjlove/awesome-mac) - [macOS shiny things](https://github.com/iCHAIT/awesome-macOS) - [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 ### Jobs profile [Available for hire](https://bestawesomesoftware.org/security.txt) - [all](https://en.m.wiktionary.org/wiki/always#English)[way](https://en.wikipedia.org/wiki/Trap_street)[z](https://en.wikipedia.org/wiki/Fictitious_entry) just the [BestAwesomeSoftware.org](https://bestawesomesoftware.org)
 
@@ -51,6 +51,8 @@
 
 ##### productivity and task automation - [awesome productivity](https://github.com/jyguyomarch/awesome-productivity#task-automation)
 
+<p align="center"><img src="h/bleachinggroundscheveningenvangoghh.jpg" width="320"/></p>
+
 ##### non-trivial production quality free open source software is [awesome](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 
 ##### kubernetes.io Clouds and Containers are [awesome](https://kubernetes.io/)
@@ -75,7 +77,18 @@
 
 ##### web application firewalls are [awesome](https://en.m.wikipedia.org/wiki/Web_application_firewall)
 
-[OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries) - [application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security) - [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
+<p align="center"><img src="h/
+oldchurchtowernuenens0002v1962800vangoghh.jpg" width="320"/></p>
+
+##### a SQL firewall for database security is [awesome](https://github.com/cossacklabs/acra/)
+
+##### [intercept](https://www.cossacklabs.com/acra/) every SQL query sent to the SQL server endpoint
+
+##### [SQL Injection Prevention](https://owasp.org/www-project-cheat-sheets/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+
+##### [themis](https://github.com/cossacklabs/themis)  secure messaging and data [encryption](https://www.cossacklabs.com/themis/)
+
+##### [OWASP Open Web Application Security](https://github.com/OWASP/CheatSheetSeries) - [application firewalls](https://en.m.wikipedia.org/wiki/Application_firewall) - [web application security](https://en.m.wikipedia.org/wiki/Web_application_security) - [modsecurity](https://github.com/SpiderLabs/ModSecurity#readme) - [nginx](https://github.com/nbs-system/naxsi#readme) - [reverse proxy web application firewall](https://github.com/p0pr0ck5/lua-resty-waf#readme)
 
 ##### [learn-anything.xyz](https://learn-anything.xyz/) is [awesome](https://github.com/learn-anything/curated-lists)
 
